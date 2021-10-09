@@ -1,3 +1,3 @@
 # PyEmployeeManagement
 
-Python CRUD project that manages a list of employees in a local SQLite database.
+Python CRUD monolith project that manages a list of employees in a local SQLite database.
